@@ -1,0 +1,20 @@
+{
+    "name": "deepelopment/compatibility/php7",
+    "type": "project",
+    "description": "",
+    "keywords": [],
+    "license": "Unlicence",
+    "authors": [
+        {
+            "name": "deepeloper",
+            "homepage": "https://github.com/deepeloper"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.1",
+        "Deepelopment/Core": "dev-develoyp"
+    },
+    "autoload": {
+        "psr-0": {"Deepelopment\\Compatibility\\PHP7": "src/"}
+    }
+}
