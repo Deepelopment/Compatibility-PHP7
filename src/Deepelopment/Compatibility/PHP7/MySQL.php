@@ -15,6 +15,11 @@ define('MYSQL_ASSOC', MYSQLI_ASSOC);
 define('MYSQL_BOTH', MYSQLI_BOTH);
 define('MYSQL_NUM', MYSQLI_NUM);
 
+/**
+ * Class and funstions providing partial PHP7 MySQL support.
+ *
+ * @author deepeloper ({@see https://github.com/deepeloper})
+ */
 class MySQLProvider extends EntityProvider
 {
     protected static $instance;
