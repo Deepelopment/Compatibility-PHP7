@@ -1,6 +1,6 @@
 {
     "name": "deepelopment/compatibility.php7",
-    "type": "project",
+    "type": "library",
     "description": "",
     "keywords": [],
     "license": "Unlicence",
